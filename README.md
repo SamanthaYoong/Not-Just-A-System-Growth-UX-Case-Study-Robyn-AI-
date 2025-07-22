@@ -1,9 +1,13 @@
 # Robyn AI: Emotion-Centered UX & Funnel Optimization
 
 > A product growth case study focused on improving emotional resonance, onboarding experience, and user retention for a mental wellness AI journaling app designed for Gen Z.
-> Dashboard in progress!
----
 
+---
+## 💡 Dashboard
+
+In the middle of designing Tableau visualizations for retention and onboarding - still refining the dashboards!
+
+---
 ## 💡 Overview
 
 This case study explores opportunities to optimize **Robyn AI's onboarding, conversation UX**, and **retention funnel**. While Robyn has strong potential in the mental wellness space, its current user experience risks early churn due to robotic tone and complex onboarding steps. I propose a more **emotionally humanized design** to better resonate with Gen Z users.
