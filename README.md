@@ -1,7 +1,7 @@
 # Robyn AI: Emotion-Centered UX & Funnel Optimization
 
 > A product growth case study focused on improving emotional resonance, onboarding experience, and user retention for a mental wellness AI journaling app designed for Gen Z.
-
+> Dashboard in progress!
 ---
 
 ## 💡 Overview
