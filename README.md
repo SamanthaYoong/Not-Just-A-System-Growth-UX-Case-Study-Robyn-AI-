@@ -57,7 +57,7 @@ Using mock or actual app data, I would build the following metrics via PostHog o
 
 ## 💡 Tools & Skills
 
-- **Tools**: Figma, PostHog, Firebase (proposed), SQL (mocked), Canva (UX sketch)
+- **Tools**: Figma, PostHog, Firebase (proposed), SQL (mocked)
 - **Skills**: Funnel Analysis, A/B Testing, User Behavior Mapping, UX Copywriting, Gen Z Emotional Design, Retention Strategy
 
 ---
